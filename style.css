@@ -178,7 +178,7 @@ body {
 #footer {
   position: absolute;
   bottom: 0;
-  width: 100%;
+  max-width: 13em;
   height: 2.5rem; /* Footer height */
   display: flex;
   justify-content: center;
